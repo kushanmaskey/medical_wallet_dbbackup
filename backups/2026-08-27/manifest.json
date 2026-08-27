@@ -1,0 +1,20 @@
+{
+  "backup_date": "2026-08-27",
+  "started_at": "2026-08-27T01:22:42.009227+00:00",
+  "tables": {
+    "profiles": 30,
+    "doctors": 22,
+    "prescriptions": 28,
+    "medications": 0,
+    "appointments": 8,
+    "appointment_alerts": 4,
+    "vitals": 252,
+    "activities": 17,
+    "prescription_alerts": 7,
+    "user_consents": 20,
+    "allergies": 11,
+    "insurance": 8
+  },
+  "auth_users": 36,
+  "completed_at": "2026-08-27T01:22:45.375980+00:00"
+}
